@@ -1,0 +1,24 @@
+[
+
+    {
+        "name": "Honey Soy Chicken",
+        "ingredients":
+        [
+            {
+                "name":"soy sauce",
+                "amount":"3",
+                "amount_measurement":"tbsp"
+            },
+            {
+                "name":"chicken thigh",
+                "amount":"500",
+                "amount_measurement":"g"
+            },
+
+        ]
+    }
+
+
+
+
+]
